@@ -1,0 +1,2 @@
+*.bin binary linguist-detectable=false
+*.sig binary linguist-detectable=false
